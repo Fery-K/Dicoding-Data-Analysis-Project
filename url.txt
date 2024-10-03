@@ -1,2 +1,2 @@
 ## Deployed Streamlit App Link
-https://dicoding-data-analysis-project-Fery-Kurniawan.streamlit.app 
+https://dicoding-data-analysis-project-fery-kurniawan.streamlit.app 

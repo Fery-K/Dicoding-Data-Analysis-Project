@@ -14,4 +14,4 @@ streamlit run Dashboard/dashboard.py
 ```
 
 ## Open Deployed streamlit app
-[Click here to open streamlit deployed app](dicoding-data-analysis-project-Fery-Kurniawan.streamlit.app)
+[Click here to open streamlit deployed app](dicoding-data-analysis-project-fery-kurniawan.streamlit.app)
